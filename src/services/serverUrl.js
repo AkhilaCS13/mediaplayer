@@ -1,0 +1,1 @@
+export const serverUrl = 'http://localhost:4000'    //it will cahnge when it is host
