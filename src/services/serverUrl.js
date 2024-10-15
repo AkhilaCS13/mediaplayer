@@ -1,1 +1,1 @@
-export const serverUrl = 'http://localhost:4000'    //it will cahnge when it is host
+export const serverUrl = 'https://mediaplayerbackend-yr5t.onrender.com'    //it will cahnge when it is host
